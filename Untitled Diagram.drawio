@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T12:38:27.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="xw-wAlmUdgRQSVwoMLWz" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T13:03:40.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lv7MKk4cCDEKZlULqugT" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -130,7 +130,7 @@
           <mxGeometry x="379.38" y="720" width="133.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dzTtF2eL-iIk_cVmwZgU-37" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380.63" y="880" width="132.5" height="80" as="geometry" />
+          <mxGeometry x="380.63" y="880" width="129.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dzTtF2eL-iIk_cVmwZgU-38" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nFTNPAwW-h6AM1i9AIHy-0" value="&lt;ul&gt;&lt;li&gt;할일 수정 및 삭제&lt;/li&gt;&lt;li&gt;개인 업무 관리&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="880" width="190" height="80" as="geometry" />
+          <mxGeometry x="360" y="880" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
